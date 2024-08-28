@@ -9,7 +9,6 @@ const Index = ({ pets }) => {
 
   return (
     <>
-
       {/* TODO: Display Hours component */}
       <Hours></Hours>
       {/* Create a card for each pet */}
